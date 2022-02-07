@@ -41,6 +41,18 @@
       "description": "Treadmill Parts For Free",
       "image": "./images/treadmill.jpg",
       "location": "East Flatbush"
+    },
+    {
+      "description": "Cup",
+      "image": "https://marvel-b1-cdn.bc0a.com/f00000000131273/cdn.shopify.com/s/files/1/0105/8732/products/15_afdbeec4-9707-420c-86c9-d22d3394b014_720x.png?v=1605122399",
+      "location": "Gardnerville",
+      "id": 8
+    },
+    {
+      "description": "c3po",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPOsiXNZN30hgu9gmNcyDRqbv4iiGQUxJmfIir7RdFP7FLXtKPv5EOHnyc7P6AxsR1DPU&usqp=CAU",
+      "location": "Gardnerville",
+      "id": 9
     }
   ]
 }
